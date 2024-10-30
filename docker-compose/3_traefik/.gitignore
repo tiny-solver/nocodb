@@ -1,0 +1,4 @@
+nocodb-data/
+nocodb-db/
+letsencrypt/
+.env*

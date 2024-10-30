@@ -1,6 +1,6 @@
 # Example with traefik revers proxy
 
-Look into the `.env` file and update the vaiables before executing `docker-compose up -d`. 
+Look into the `.env` file and update the vaiables before executing `docker-compose up -d`.
 
 ## Traefik configuration
 
@@ -17,3 +17,7 @@ Looks for new nocodb image every day at 5:00 and recreates the container.
 - Accessible via `nocodb.DOMAINNAME/dashboard`
 - Uses postgres db for storage
 - Telemetry is disabled
+
+# tinysolver
+
+2024.10.31, fix for local setup
